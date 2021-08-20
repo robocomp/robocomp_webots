@@ -1,0 +1,16 @@
+#VRML_OBJ R2021a utf8
+DEF Lidar Robot {
+  children [
+    DEF SEEDNAME Lidar {
+      translation translationX translationY translationZ
+      rotation rotationX rotationY rotationZ rotationROT
+      name "lidar"
+      physics Physics {
+    }
+    }
+  ]
+  physics Physics {
+  }
+  controller "LidarComponent"
+  supervisor TRUE
+}

@@ -1,0 +1,16 @@
+#VRML_OBJ R2021a utf8
+DEF Camera Robot {
+  children [
+    DEF SEEDNAME Camera {
+      translation translationX translationY translationZ
+      rotation rotationX rotationY rotationZ rotationROT
+      name "camera"
+      physics Physics {
+    }
+    }
+  ]
+  physics Physics {
+  }
+  controller "CameraComponent"
+  supervisor TRUE
+}

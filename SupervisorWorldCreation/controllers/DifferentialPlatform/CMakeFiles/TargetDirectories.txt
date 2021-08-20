@@ -1,0 +1,5 @@
+/home/kacper/robocomp/components/DirectionalPlatform/CMakeFiles/rebuild_cache.dir
+/home/kacper/robocomp/components/DirectionalPlatform/CMakeFiles/edit_cache.dir
+/home/kacper/robocomp/components/DirectionalPlatform/src/CMakeFiles/rebuild_cache.dir
+/home/kacper/robocomp/components/DirectionalPlatform/src/CMakeFiles/edit_cache.dir
+/home/kacper/robocomp/components/DirectionalPlatform/src/CMakeFiles/ICES__home_kacper_robocomp_components_DirectionalPlatform_src.dir

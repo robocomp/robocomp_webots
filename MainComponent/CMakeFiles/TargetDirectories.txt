@@ -1,0 +1,5 @@
+/home/kacper/Documents/MainComponent/CMakeFiles/rebuild_cache.dir
+/home/kacper/Documents/MainComponent/CMakeFiles/edit_cache.dir
+/home/kacper/Documents/MainComponent/src/CMakeFiles/edit_cache.dir
+/home/kacper/Documents/MainComponent/src/CMakeFiles/rebuild_cache.dir
+/home/kacper/Documents/MainComponent/src/CMakeFiles/ICES__home_kacper_Documents_MainComponent_src.dir
