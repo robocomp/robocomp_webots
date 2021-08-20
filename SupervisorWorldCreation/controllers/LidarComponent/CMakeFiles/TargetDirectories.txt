@@ -1,5 +1,0 @@
-/home/kacper/robocomp/components/LidarComponent/CMakeFiles/rebuild_cache.dir
-/home/kacper/robocomp/components/LidarComponent/CMakeFiles/edit_cache.dir
-/home/kacper/robocomp/components/LidarComponent/src/CMakeFiles/rebuild_cache.dir
-/home/kacper/robocomp/components/LidarComponent/src/CMakeFiles/edit_cache.dir
-/home/kacper/robocomp/components/LidarComponent/src/CMakeFiles/ICES__home_kacper_robocomp_components_LidarComponent_src.dir
