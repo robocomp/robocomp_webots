@@ -1,0 +1,12 @@
+import "DifferentialRobot.idsl";
+import "Laser.idsl";
+
+Component MainComponent
+{
+    Communications
+    {
+        requires DifferentialRobot, Laser;
+    };
+    language python;
+};
+

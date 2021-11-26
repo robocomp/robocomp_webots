@@ -1,0 +1,16 @@
+#VRML_OBJ R2021a utf8
+DEF Distance_Sensor Robot {
+  children [
+    DEF SEEDNAME DistanceSensor {
+      translation translationX translationY translationZ
+      rotation rotationX rotationY rotationZ rotationROT
+      name "ds_center"
+      physics Physics {
+    }
+    }
+  ]
+  physics Physics {
+  }
+  controller "DistanceSensorComponent"
+  supervisor TRUE
+}

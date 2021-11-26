@@ -1,0 +1,16 @@
+#VRML_OBJ R2021a utf8
+DEF RangeFinder Robot {
+  children [
+    DEF SEEDNAME RangeFinder {
+      translation translationX translationY translationZ
+      rotation rotationX rotationY rotationZ rotationROT
+      name "rangefinder"
+      physics Physics {
+    }
+    }
+  ]
+  physics Physics {
+  }
+  controller "RangeFinderComponent"
+  supervisor TRUE
+}
